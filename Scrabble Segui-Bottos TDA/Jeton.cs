@@ -8,6 +8,9 @@ namespace Scrabble_Segui_Bottos_TDA
 {
     class Jeton
     {
+
+
+
         private char lettre;
         private int scoreLettre;
         private int dupliqué;
