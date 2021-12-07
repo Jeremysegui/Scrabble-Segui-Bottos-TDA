@@ -10,7 +10,6 @@ namespace Scrabble_Segui_Bottos_TDA
 
     {
 
-        salut mec
 
         private char lettre;
         private int scoreLettre;

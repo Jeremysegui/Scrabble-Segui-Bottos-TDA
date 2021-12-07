@@ -16,7 +16,10 @@ namespace Scrabble_Segui_Bottos_TDA
         {
             this.jeton = new List<Jeton>(27);
             string[] Valeurs = File.ReadAllLines(Jetons);
-            for(int)
+            for(int i=0; i<Valeurs.Length; i++)
+            {
+
+            }
 
         }
 

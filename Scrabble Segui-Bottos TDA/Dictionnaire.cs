@@ -8,5 +8,6 @@ namespace Scrabble_Segui_Bottos_TDA
 {
     class Dictionnaire
     {
+
     }
 }
